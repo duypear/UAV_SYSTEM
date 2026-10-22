@@ -1,0 +1,10 @@
+gps.c:48:6:gps_uart_irq_handler	16	static
+gps.c:66:13:gps_set_baudrate	24	static,ignoring_inline_asm
+gps.c:86:6:gps_init	32	static
+gps.c:130:16:parse_coord	96	static
+gps.c:175:16:parse_float_scale	24	static
+gps.c:187:13:gps_update_home	56	static
+gps.c:232:13:parse_nmea_sentence	136	static
+gps.c:297:6:gps_poll	104	static
+gps.c:378:16:gps_get_data	4	static
+gps.c:383:6:gps_set_home	4	static

@@ -1,0 +1,11 @@
+bmp388.c:80:13:altitude_kalman_reset	16	static
+bmp388.c:92:13:altitude_kalman_update	104	static
+bmp388.c:144:13:bmp388_write_reg	24	static
+bmp388.c:155:16:bmp388_read_reg	24	static
+bmp388.c:162:6:i2c_scan	120	static
+bmp388.c:189:6:bmp388_init	296	static
+bmp388.c:337:6:bmp388_read	88	static
+bmp388.c:413:6:bmp388_set_reference	48	static
+bmp388.c:433:6:bmp388_zero_altitude	40	static
+bmp388.c:442:6:bmp388_is_ready	4	static
+bmp388.c:447:9:bmp388_get_addr	4	static

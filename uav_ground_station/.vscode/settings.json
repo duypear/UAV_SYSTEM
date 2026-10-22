@@ -1,0 +1,22 @@
+{
+    "idf.target": "esp32c3",
+    "idf.flashType": "UART",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-builtin.cfg"
+    ],
+    "files.associations": {
+        "*.h": "c",
+        "*.c": "c"
+    },
+    "idf.currentSetup": "C:/Espressif/frameworks/esp-idf-v5.4.2/",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32c3"
+    },
+    "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-20.1.1_20250829\\esp-clang\\bin\\clangd.exe",
+    "clangd.arguments": [
+      "--background-index",
+      "--query-driver=**",
+      "--compile-commands-dir=d:\\UAVTELE\\uav_ground_station\\build"
+    ],
+    "idf.port": "COM8"
+}

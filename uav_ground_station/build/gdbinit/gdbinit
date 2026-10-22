@@ -1,0 +1,2 @@
+source C:/web_uav/uav_ground_station/build/gdbinit/symbols
+source C:/web_uav/uav_ground_station/build/gdbinit/connect
